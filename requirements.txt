@@ -1,3 +1,3 @@
 # reuriements.txt
-snowflake-snowpark-python=1.19.0
-streamlit=1.35.0
+snowflake-snowpark-python
+streamlit
